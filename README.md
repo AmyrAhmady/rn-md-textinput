@@ -1,8 +1,11 @@
 # React Native Material Design TextInput
 
 React Native TextInput styled with Material Design.
+
 Original repository: https://github.com/evblurbs/react-native-md-textinput
+
 I just created a new repository because the original author has been inactive for 3 years and there were many unanswered issues and unmerged pull requests.
+
 Feel free to create PRs and issues in here.
 
 ![demo](/demo.gif)
