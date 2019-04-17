@@ -1,22 +1,25 @@
 # React Native Material Design TextInput
 
 React Native TextInput styled with Material Design.
+Original repository: https://github.com/evblurbs/react-native-md-textinput
+I just created a new repository because the original author has been inactive for 3 years and there were many unanswered issues and unmerged pull requests.
+Feel free to create PRs and issues in here.
 
 ![demo](/demo.gif)
 
 ## Installation
 ```
-npm install react-native-md-textinput
+npm install rn-md-textinput
 ```
 
 ## Usage
 
-I'm going to refer to the `react-native-md-textinput` Component as `TextField`. You can name it whatever you like when importing it.
+I'm going to refer to the `rn-md-textinput` Component as `TextField`. You can name it whatever you like when importing it.
 
 The most basic usage is to import the `TextField` Component and render it with the props `label` and `highlightColor`. Note that this example uses the [ScrollView](https://facebook.github.io/react-native/docs/scrollview.html) Component. This allows the keyboard to be dismissed when users tap outside the input and keyboard area.
 
 ```javascript
-import TextField from 'react-native-md-textinput';
+import TextField from 'rn-md-textinput';
 
 class App extends React.Component {
   render() {
@@ -36,7 +39,7 @@ To customize the `TextInput` that is rendered inside the `TextField` Component, 
 Here is an example of how to change the keyboard type to `numeric`.
 
 ```javascript
-import TextField from 'react-native-md-textinput';
+import TextField from 'rn-md-textinput';
 
 class App extends React.Component {
   render() {
