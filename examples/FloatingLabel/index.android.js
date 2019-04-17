@@ -1,6 +1,6 @@
 /**
  * Sample React Native App
- * that demos the react-native-md-textinput
+ * that demos the rn-md-textinput
  */
 'use strict';
 import React, { Component } from "react";
@@ -11,7 +11,7 @@ import {
   ScrollView
 } from "react-native";
 
-import TextField from 'react-native-md-textinput';
+import TextField from 'rn-md-textinput';
 
 class FloatingLabel extends Component {
   constructor(props: Object) {

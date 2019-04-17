@@ -17,6 +17,9 @@
   "bugs": {
     "url": "https://github.com/evblurbs/react-native-md-textinput/issues"
   },
+  "dependencies": {
+    "prop-types": "^15.7.2"
+  },
   "author": "Evan Johnson",
   "license": "MIT",
   "homepage": "https://github.com/evblurbs/react-native-md-textinput#readme"
