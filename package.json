@@ -1,6 +1,6 @@
 {
   "name": "rn-md-textinput",
-  "version": "2.1.1",
+  "version": "2.2.0",
   "description": "React Native TextInput styled with Material Design.",
   "main": "lib/TextField.js",
   "repository": {
@@ -20,7 +20,7 @@
   "dependencies": {
     "prop-types": "^15.7.2"
   },
-  "author": "iAmir <hhm6@yahoo.com>, Evan Johnson",
+  "author": "Amyr Ahmady (iAmir) <hhm6@yahoo.com>, Evan Johnson",
   "license": "MIT",
   "homepage": "https://github.com/AmyrAhmady/rn-md-textinput#readme"
 }
